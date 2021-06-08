@@ -91,8 +91,8 @@ int main(){
 
     // cast
     Eigen::Vector2f v2f;
-//    v2f = point_P;
-//    std::clog << "cast: " << std::endl << v2f << std::endl;
+    v2f = point_P_transformed.segment(0, 2);
+    std::clog << "cast: " << std::endl << v2f << std::endl;
 
 
     return 0;
