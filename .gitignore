@@ -1,4 +1,7 @@
 /*/cmake-build-debug/
+/*/cmake-build-debug-shhs/
+/cmake-build-debug/
+/cmake-build-debug-shhs/
 .idea/
 # Prerequisites
 *.d
